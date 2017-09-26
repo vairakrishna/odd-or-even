@@ -1,9 +1,10 @@
 #include<stdio.h>
 void main()
 {
-int i;
-for(i=0;i<5;i++)
-{
-printf("Hello");
-}
+int i=o;
+  while(i<5)
+  {
+    printf("Hello");
+  i++;
+  }
 }
